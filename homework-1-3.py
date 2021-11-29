@@ -1,0 +1,5 @@
+num = input('Введите число: ')
+num_1 = int(num*2)
+num_2 = int(num*3)
+print(num, num_1, num_2)
+print(int(num) + num_1 + num_2)
